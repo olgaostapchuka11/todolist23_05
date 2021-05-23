@@ -1,0 +1,6 @@
+.category-dot {
+    width: 12px;
+    height: 12px;
+    display: block;
+    border-radius: 50%;
+}
